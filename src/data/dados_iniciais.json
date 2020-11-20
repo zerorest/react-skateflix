@@ -1,123 +1,151 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Flip",
+      "link": "https://www.youtube.com/results?search_query=kickflip",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Se liga nessa trick",
+        "url": "https://www.youtube.com/results?search_query=flip"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "10 dicas pra mandar flip alto com Luan de Oliveira #Comafeijão",
+          "url": "https://www.youtube.com/watch?v=IuA9rztHMPQ"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Skateology: kickflip (1000 fps slow motion)",
+          "url": "https://www.youtube.com/watch?v=wfCgCXvw50A"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "How-To Kickflip - BASICS with Spencer Nuzzi",
+          "url": "https://www.youtube.com/watch?v=wNjLAI1IlUI"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "HOW TO KICKFLIP THE EASIEST WAY TUTORIAL",
+          "url": "https://www.youtube.com/watch?v=4XgjDhSnTtE"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "HOW TO: KICKFLIP",
+          "url": "https://www.youtube.com/watch?v=XvSXamwmFdo"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "What's Wrong With Your Kickflip & How to Fix It",
+          "url": "https://www.youtube.com/watch?v=KTW5xEoFTsQ"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Como mandar um FLIP | sobreskate",
+          "url": "https://www.youtube.com/watch?v=1oLxtXUN-oc"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "COMO MANDAR KICKFLIP - MUITO FÁCIL !!!",
+          "url": "https://www.youtube.com/watch?v=XoR91eWMpug"
+        },
+        {
+          "titulo": "Kelly Hart 1000fps slow motion kickflip",
+          "url": "https://www.youtube.com/watch?v=cC7VEqn-mUM"
+        },
+        {
+          "titulo": "How-To Skateboarding: Kickflips with Dennis Durrant",
+          "url": "https://www.youtube.com/watch?v=TezQvNZgxTA"
+        },
+        {
+          "titulo": "HOW TO PERFECT KICKFLIPS",
+          "url": "https://www.youtube.com/watch?v=0ftx2suc6hA"
+        },
+        {
+          "titulo": "COMO MANDAR FLIP!!!",
+          "url": "https://www.youtube.com/watch?v=tfGJko-m-TY"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Heelflip",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Alguns Heelflips para se inspirar",
+        "url": "https://www.youtube.com/results?search_query=heelflip"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "HOW TO LAND THE BEST HEELFLIP IN THE WORLD! Ft. NEEN WILLIAMS",
+          "url": "https://www.youtube.com/watch?v=rhwZhGMSvbE"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "How To Heelflip",
+          "url": "https://www.youtube.com/watch?v=zfS-Ji3VDB4"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "How-To Heelflip - BASICS with Spencer Nuzzi",
+          "url": "https://www.youtube.com/watch?v=TqJTxROm7rg"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "How-To Heelflip - Skateboarding 101 with Christian Flores",
+          "url": "https://www.youtube.com/watch?v=CuaRVLW3QNM"
+        },
+        {
+          "titulo": "Como mandar heelflip | sobreskate",
+          "url": "https://www.youtube.com/watch?v=qLLYOQyLJpQ"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "HOW TO HEELFLIP THE EASIEST WAY 2.0",
+          "url": "https://www.youtube.com/watch?v=phsJk5_jHkU"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Varial",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "A manobra Shuvit, ou Varial, no Brasil",
+        "url": "https://www.youtube.com/results?search_query=how+to+shuvit"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "How-To Shuvit - BASICS with Spencer Nuzzi",
+          "url": "https://www.youtube.com/watch?v=JYuwXjlTqZw"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "How to Pop Shove It & How to Shove It",
+          "url": "https://www.youtube.com/watch?v=2BXzIWbSo-4"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Como mandar Pop Shov-it | sobreskate",
+          "url": "https://www.youtube.com/watch?v=ug1DFKYfoMw"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Como mandar SHOVE IT e VARIAL - FEUPOS DICAS!",
+          "url": "https://www.youtube.com/watch?v=PhTlqW1VXFw"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "360 flip",
       "cor": "orange",
+      "link_extra": {
+        "text": "No Brasil o Kickflip",
+        "url": "https://www.youtube.com/results?search_query=360+flip"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "How-To 360 Flip - BASICS with Spencer Nuzzi",
+          "url": "https://www.youtube.com/watch?v=zjS8cGlXmUs"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "HOW TO: 360 FLIP",
+          "url": "https://www.youtube.com/watch?v=6YlQAFip5mc"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "360 triple flip slow motion",
+          "url": "https://www.youtube.com/watch?v=ZJHjn7kczuw"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "HOW TO PERFECT TRE FLIPS",
+          "url": "https://www.youtube.com/watch?v=BWGWoPZOnh8"
+        },
+        {
+          "titulo": "Why Your Tre Flip SUCKS & How to FIX IT!",
+          "url": "https://www.youtube.com/watch?v=8C-J4CanbHQ"
         }
       ]
     },
